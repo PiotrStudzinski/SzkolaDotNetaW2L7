@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Tesk8
+namespace Task8
 {
     class Program
     {
